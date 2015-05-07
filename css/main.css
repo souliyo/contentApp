@@ -40,7 +40,7 @@ a * {border: 0;}
 html {background-color:#262626;}
 body {background-color:#262626; width:1080px; height:1920px; overflow:hidden;}
 
-.logo_large {background:url(../images/logo_large.png) no-repeat; width:1060px; height:578px; margin:10px 0 10px 10px;}
+.logo_large {background:url(../images/logo_large.png) no-repeat; width:1060px; height:578px; margin:0px 0 10px 10px;}
 
 .menu_ico {display:block; margin:0 0 10px 10px; float:left; height:432px; position:relative; text-decoration:none;
 			-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
